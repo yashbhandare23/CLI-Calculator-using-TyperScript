@@ -1,4 +1,4 @@
-# CLI-Calculator-using-TyperScript
+**CLI-Calculator-using-TypeScript**
 
 A simple **Command Line Calculator** built using **Inquirer.js** for interactive user prompts. This application allows the user to:  
 - Input two numbers and select a mathematical operator (+, -, *, /).
@@ -7,7 +7,7 @@ A simple **Command Line Calculator** built using **Inquirer.js** for interactive
 - Perform the desired operation and display the result.  
 - Handles basic input validation to ensure correct inputs are provided.
 
-Setup:
+**Setup:**
 ![Screenshot 2025-01-09 225819](https://github.com/user-attachments/assets/34fc0528-ff6f-4d09-93c0-609bfeffc473)
 
-Great for beginners to practice handling user input and performing conditional logic.
+Great for beginners to practice handling user input and performing conditional logic in TypeScript.
